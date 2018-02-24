@@ -16,10 +16,10 @@
 
 // ** MySQL ayarları - Bu bilgileri sunucunuzdan alabilirsiniz ** //
 /** WordPress için kullanılacak veritabanının adı */
-define('DB_NAME', 'dogrun_emrahdo');
+define('DB_NAME', 'endogrun_emrahdo');
 
 /** MySQL veritabanı kullanıcısı */
-define('DB_USER', 'dogrun_emrahdo');
+define('DB_USER', 'endogrun_emrahdo');
 
 /** MySQL veritabanı parolası */
 define('DB_PASSWORD', 'Ubofi5E9');
